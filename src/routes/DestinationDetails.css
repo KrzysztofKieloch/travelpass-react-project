@@ -1,0 +1,38 @@
+.destination{
+    width: 100%;
+    padding: 0px 0px;
+    display:flex;
+    gap: 20px;
+    top:40%;
+}
+.images{
+    flex:1;
+}
+.left{
+    flex:1;
+    display: flex;
+    gap: 20px;
+}
+.sideImg{
+        width:120px;
+        height: 100px;
+        object-fit: cover;
+        cursor: pointer;
+        margin-bottom: 10px;
+}
+
+.mainImg{
+    width: 90%;
+    height:500px;
+}
+.mainImage{
+    width:90%;
+    height: 80%;
+    max-height: 400px;
+    object-fit: cover;
+}
+.right{
+    flex: 0.5;
+    text-align: center;
+
+}

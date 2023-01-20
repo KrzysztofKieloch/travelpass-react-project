@@ -1,0 +1,25 @@
+
+.nav-link{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    text-align: right;
+}
+.nav-link:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:hover{
+    color:black;
+}
+i{
+    margin: 10px;
+}
+#login{
+    color: rgb(255, 255, 255);
+}
+#menuItems{
+    color: aqua;
+}
+

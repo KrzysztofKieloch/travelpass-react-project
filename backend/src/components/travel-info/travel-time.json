@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_travel_info_travel_times",
+  "info": {
+    "displayName": "Travel Time",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "months": {
+      "type": "string"
+    },
+    "days": {
+      "type": "string"
+    }
+  }
+}
